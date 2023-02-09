@@ -231,6 +231,8 @@ y el inductor 1 está enrollado sobre un núcleo de acero al bajo carbono (perme
 
 ># 4. VIDEO
 
+https://youtu.be/20RBJRrqIf0
+
 ># 5. CONCLUSIONES
 
 *La inductancia es una medida de la capacidad de una bobina para establecer voltaje inducido como resultado de un cambio en su corriente. 
