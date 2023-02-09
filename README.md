@@ -25,7 +25,23 @@
 
 **CAPITULO 13**
 
+![image](https://user-images.githubusercontent.com/105020538/217938151-cc27d0da-62b2-4657-baea-5f2d72f32380.png)
+
+![image](https://user-images.githubusercontent.com/105020538/217938208-79929f54-3fa5-4015-92f0-43336d57f602.png)
+
+![image](https://user-images.githubusercontent.com/105020538/217938246-ed2e4a3b-29d0-4773-8fe5-13808e486a16.png)
+
 **CAPITULO 14**
+
+![image](https://user-images.githubusercontent.com/105020538/217938355-dca6878a-0009-4406-92b3-50cbd20e38be.png)
+
+![image](https://user-images.githubusercontent.com/105020538/217938391-fa815e34-70f5-4b3f-817b-51784a5c685a.png)
+
+![image](https://user-images.githubusercontent.com/105020538/217938444-2ef59a93-fe4b-47d6-bd72-ce1b41d8fb3b.png)
+
+![image](https://user-images.githubusercontent.com/105020538/217938490-f79d126d-229f-423b-a897-188f38badd52.png)
+
+![image](https://user-images.githubusercontent.com/105020538/217938544-61326fc7-9b5c-428e-8ca3-da7028bd97be.png)
 
 ># 3. EXPLICACION Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
