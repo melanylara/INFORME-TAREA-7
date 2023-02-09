@@ -125,11 +125,103 @@ y el inductor 1 está enrollado sobre un núcleo de acero al bajo carbono (perme
 
 **CAPITULO 14 EJERCICIOS IMPARES** 
 
+**14–1 Inductancia mutua** 
+
+1. ¿Cuál es la inductancia mutua cuando k= 0.75, L1= 1 H, y L2= 4 H?. 
+
+![image](https://user-images.githubusercontent.com/105020538/217934850-24327a65-a1b6-40e1-82a3-6535a54c9f64.png)
+
+**14–2 El transformador básico**
+
+3. ¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario? ¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100? 
+
+![image](https://user-images.githubusercontent.com/105020538/217934895-5dbc01bd-d79d-47f6-ad20-3dbd0bd4e68b.png)
+
+5. Para cada transformador de la figura 14-42, trace el voltaje secundario que muestre su relación con el voltaje primario. Indique también la amplitud. 
+
+![image](https://user-images.githubusercontent.com/105020538/217934930-6c92a61a-92f2-4bc1-9860-32973957f694.png)
+
+**14–3 Transformadores elevadores y reductores** 
+
+7. El devanado primario de un transformador tiene 120 V de ca a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 5? 
+
+![image](https://user-images.githubusercontent.com/105020538/217934981-fd07f6ec-3dc4-4d3a-828d-7eb4376edbb5.png)
+
+9. Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas? 
+
+![image](https://user-images.githubusercontent.com/105020538/217935006-ff9224a4-c4f5-4570-b23c-fb50dfa13fce.png)
+
+11. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0,1 para obtener un voltaje secundario de 6 V de ca? 
+
+![image](https://user-images.githubusercontent.com/105020538/217935036-2f6b31ec-7c18-404b-9462-7d9ef6c7bb5e.png)
+
+13. Determine las lecturas de medidor no especificadas en la figura 14-44 
+
+![image](https://user-images.githubusercontent.com/105020538/217935077-383c011b-eb59-4847-8f17-1f6bee3587d1.png)
+
+**14–4 Carga del devanado secundario** 
+
+15. Determine las siguientes cantidades en la figura 14-46 
+
+![image](https://user-images.githubusercontent.com/105020538/217935394-743c7145-f786-4a1b-950c-f4a9a3d96628.png)
+
+![image](https://user-images.githubusercontent.com/105020538/217935415-1cff7e34-f1a8-486e-9af3-7da3c4d14463.png)
+
+**14–5 Carga reflejada** 
+
+17. ¿Cuál debe ser la relación de vueltas en la figura 14-48 para reflejar 300 Ω en el circuito primario? 
+
+![image](https://user-images.githubusercontent.com/105020538/217935511-52585168-6773-4e57-ade1-c58f75cf93df.png)
+
+**14–6 Igualación de impedancia**
+
+19. En la figura 14-49, ¿cuál es la potencia máxima que puede ser suministrada al altavoz de 4Ω? 
+
+![image](https://user-images.githubusercontent.com/105020538/217935606-9df5401c-d37d-442d-840c-80ac669cd19b.png)
+
+**14–7 Características de un transformador no ideal**
+
+21. En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 W en las resistencias de devanado, ¿cuál es la potencia de salida hacia la carga, omitiendo cualesquiera otras pérdidas?
+
+![image](https://user-images.githubusercontent.com/105020538/217935665-fb97902f-7167-44b9-bfae-afa32cbe053c.png)
+
+23. Determine el coeficiente de acoplamiento de un transformador en el cual un 2% del flujo total generado en el primario no pasa a través del secundario. 
+
+![image](https://user-images.githubusercontent.com/105020538/217935708-b7446930-bfc6-432f-813b-7fb164cd845d.png)
+
+25. ¿Qué potencia nominal en kVA se requiere para un transformador que debe manejar una corriente máxima de 10 A a través de la carga con un voltaje secundario de 2.5 kV? 
+
+![image](https://user-images.githubusercontent.com/105020538/217935747-7192ce66-ac0e-4169-bf68-7872605e2acd.png)
+
+**14–8 Transformadores con tomas y devanados múltiples**  
+
+27. Determine cada uno de los voltajes desconocidos indicados en la figura 14-51.
+
+![image](https://user-images.githubusercontent.com/105020538/217935794-95903f52-a10a-433a-94f7-59e868011b3a.png)
+
+29. Encuentre el voltaje secundario para cada uno de los autotransformadores mostrados en la figura 14-53. 
+
+![image](https://user-images.githubusercontent.com/105020538/217935826-7910380d-7c2f-4b7d-903c-b18247dbb307.png)
+
+31. Para el transformador cargado con tomas que muestra la figura 14-55, determine lo siguiente: (a) Todos los voltajes y corrientes presentes en la carga (b) La resistencia reflejada en el primario 
+
+![image](https://user-images.githubusercontent.com/105020538/217936005-830a4d7d-543d-4754-87cf-b3254bdbadb7.png)
+
+**14–9 Localización de fallas** 
+
+33. ¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito? 
+
+- Se extrae corriente primaria en exceso, potencialmente se quema la fuente y/o el transformador a menos que se proteja el primario con un fusible. 
 
 ># 4. VIDEO
 
 ># 5. CONCLUSIONES
 
+*La inductancia es una medida de la capacidad de una bobina para establecer voltaje inducido como resultado de un cambio en su corriente. 
+* Existe inductancia mutua entre dos bobinas acopladas magnéticamente. 
+* El número de vueltas en el primario y el número de vueltas en el secundario determinan la relación de vueltas. 
+
 ># 6. BIBLIOGRAFÍA
+* FLOYD, THOMAS L. (2007). Principios de circuitos eléctricos. Octava edición PEARSON EDUCACIÓN. 
 
 
